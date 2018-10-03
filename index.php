@@ -16,6 +16,11 @@
     <h1>SUPERHEADER</h1>
    
    </div>
+
+
+   <footer>
+    &copy; <?php echo date('Y'); ?> The spectacular me
+</footer>
     
     <script src=""></script>
   </body>
